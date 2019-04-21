@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("RandomOpenFile")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("随机打开文件")]
+[assembly: AssemblyDescription("随机遍历当前文件夹并随机打开一个文件")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("LPLaser")]
 [assembly: AssemblyProduct("RandomOpenFile")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyTrademark("Nope")]
 [assembly: AssemblyCulture("")]
 
 // 将 ComVisible 设置为 false 会使此程序集中的类型
